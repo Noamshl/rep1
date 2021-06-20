@@ -1,0 +1,38 @@
+
+
+p {
+    color:blue;
+}
+#calc{
+  text-align: center;
+  color: black;
+  background-color: darkcyan;
+}
+
+#box{
+  width: 300px;
+  border: 15px solid green;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-right: 350px;
+  margin-top: 20px;
+  margin-left: 550px;
+  margin-bottom: 300px;
+}
+#outline{
+  outline-style: solid;
+  outline-color: black;
+  text-align: center;
+  padding-bottom: 5%;
+  
+}
+button{
+  width: 70px;
+  padding: 15px;
+  
+}
+.a1{
+  margin-top: 1%;
+}
