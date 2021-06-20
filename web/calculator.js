@@ -22,7 +22,7 @@ function expand(x){
 }
 
 //---------------- Initilize the calculator------------------
-
+//just a comment
 //Initilize the calculator and its screen
 function remove(){
     stack.splice(0,stack.length);
